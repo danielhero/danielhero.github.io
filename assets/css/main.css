@@ -2573,3 +2573,10 @@ body > article {
   width: 150px;
   height: 150px;
 }
+
+.social-top {
+  font-size: 3rem;
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+}
